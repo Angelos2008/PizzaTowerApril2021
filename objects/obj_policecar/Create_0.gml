@@ -1,0 +1,12 @@
+hsp = 0
+vsp = 0
+movespeed = 5
+grav = 0.5
+depth = -8
+grounded = 0
+jumpspeed = 11
+state = (114 << 0)
+targetplayer = -4
+targetRoom = room
+targetDoor = "A"
+image_speed = 0.35
